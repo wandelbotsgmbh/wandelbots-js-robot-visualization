@@ -93,7 +93,7 @@ export const RobotVisualizationUI = () => {
               <Image
                 src={claim}
                 alt="Nova"
-                width={546 / 3.5}
+                width={412 / 3.5}
                 height={63 / 3.5}
               />
             </Stack>
