@@ -92,7 +92,7 @@ export const RobotVisualizationUI = () => {
               </BlurredCard>
               <Image
                 src={claim}
-                alt="Nova"
+                alt="Runs on Wandelbots"
                 width={412 / 3.5}
                 height={63 / 3.5}
               />
