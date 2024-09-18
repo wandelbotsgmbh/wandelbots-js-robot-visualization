@@ -4,7 +4,7 @@ import { env } from "../../runtimeEnv"
 import { observer } from "mobx-react-lite"
 import { useWandelApp } from "../../WandelAppContext"
 import { LoadingScreen } from "./LoadingScreen"
-import { RobotVisualization } from "../../templates/Placeholder/RobotVisualization"
+import { RobotVisualization } from "../../templates/RobotVisualization/RobotVisualization"
 import { NoMotionGroupModal } from "@wandelbots/wandelbots-js-react-components"
 
 export const WandelAppMain = observer(() => {
