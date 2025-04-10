@@ -16,7 +16,7 @@ import {
   defaultAxisConfig,
   useAnimationFrame,
 } from "@wandelbots/wandelbots-js-react-components"
-import { radiansToDegrees } from "@wandelbots/wandelbots-js"
+import { radiansToDegrees } from "@wandelbots/nova-js"
 
 export const RobotVisualizationUI = () => {
   const activeRobot = useActiveRobot()
