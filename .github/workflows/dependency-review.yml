@@ -9,7 +9,7 @@ jobs:
   dependency-review:
     runs-on: ubuntu-latest
     steps:
-      - name: 'Checkout Reposistory'
+      - name: 'Checkout Repository'
         uses: actions/checkout@v6
 
       - name: 'Dependency Review'
