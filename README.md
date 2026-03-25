@@ -1,4 +1,8 @@
-# Wandelbots Robot Visualization
+# Wandelbots Robot Visualization (DEPRECATED)
+
+> **⚠️ Deprecation Notice:** This application is deprecated. Please check [wandelbots-js-jogging](https://github.com/wandelbotsgmbh/wandelbots-js-jogging) for the current state of the state stream.
+>
+> Additionally, **Wandelscript** is also deprecated and is on its way to being removed.
 
 This example is using the [boilerplate](https://github.com/wandelbotsgmbh/wandelbots-js-boilerplate) for creating Wandelbots robot applications using [NextJS](https://nextjs.org/)
 
@@ -18,3 +22,4 @@ Example:
   - "1@fanuc" = get_controller("fanuc")[1]
 
 For more information about wandelscript you can have a look into [our docs](https://docs.dev.wandelbots.io/25.4/wandelscript/quickstart/).
+(Please note: Wandelscript is deprecated and will be removed in the future).
